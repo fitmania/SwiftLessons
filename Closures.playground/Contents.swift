@@ -1,6 +1,6 @@
 import UIKit
 
-var str = "Swift Closures!"
+var str = "Hello, CLOSURES!"
 
 //Частный случай функции
 //Одна функция группирует код -> sortLenses(), вторая производит операцию сравнения->closure: (Int)->(Bool)
